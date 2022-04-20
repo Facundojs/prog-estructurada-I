@@ -1,0 +1,7 @@
+%d for int and short int
+%u for unsigned int's (long & short)
+%f for float
+%lf for double
+%ld / %Lf for long
+%c for char
+%u for unsigned char
